@@ -2,8 +2,6 @@
 
 https://cyber-map-india.netlify.app/
 
-*(A screenshot of the Cybermap India project showing the timeline for West Bengal)*
-
 ## 📖 About The Project
 
 Cybermap India is an interactive 3D data visualization tool designed to make complex cybercrime data accessible and engaging. The application presents users with a dynamic, rotating 3D model of the Earth, which they can explore freely. As a user zooms in, the globe transitions from a world map to a detailed map of India, revealing clickable state-level boundaries. Clicking on a state opens a historical timeline of significant cybercrime incidents for that region.
